@@ -1,0 +1,19 @@
+.hello
+{
+    background:green;
+    width: 10%;
+    padding: 1px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    display:none;
+}
+
+img
+{
+    width: 37vw; 
+    height: 100vh; 
+    opacity:1
+}

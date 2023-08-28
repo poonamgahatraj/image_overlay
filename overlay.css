@@ -1,0 +1,31 @@
+.hello
+{
+    background: #008CBA;
+    width: 37vw;
+    height: 100vh;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    display:none;
+
+    transition:2s;
+
+    
+    
+   
+}
+
+
+
+
+.container
+{
+    position: relative;
+}
+
+
